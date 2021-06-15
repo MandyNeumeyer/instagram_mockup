@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/instagram_mockup/static/css/main.ff62f69c.chunk.css",
+    "main.js": "/instagram_mockup/static/js/main.2022b676.chunk.js",
+    "main.js.map": "/instagram_mockup/static/js/main.2022b676.chunk.js.map",
+    "runtime-main.js": "/instagram_mockup/static/js/runtime-main.a9b971a7.js",
+    "runtime-main.js.map": "/instagram_mockup/static/js/runtime-main.a9b971a7.js.map",
+    "static/js/2.17d7696c.chunk.js": "/instagram_mockup/static/js/2.17d7696c.chunk.js",
+    "static/js/2.17d7696c.chunk.js.map": "/instagram_mockup/static/js/2.17d7696c.chunk.js.map",
+    "index.html": "/instagram_mockup/index.html",
+    "static/css/main.ff62f69c.chunk.css.map": "/instagram_mockup/static/css/main.ff62f69c.chunk.css.map",
+    "static/js/2.17d7696c.chunk.js.LICENSE.txt": "/instagram_mockup/static/js/2.17d7696c.chunk.js.LICENSE.txt",
+    "static/media/hawaiian.16ec27a8.jpeg": "/instagram_mockup/static/media/hawaiian.16ec27a8.jpeg",
+    "static/media/instagram.35408c85.jpeg": "/instagram_mockup/static/media/instagram.35408c85.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9b971a7.js",
+    "static/js/2.17d7696c.chunk.js",
+    "static/css/main.ff62f69c.chunk.css",
+    "static/js/main.2022b676.chunk.js"
+  ]
+}
