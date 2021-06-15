@@ -28,7 +28,7 @@ This project was created to practice React components and Sass.
  ``` 
    Enjoy
    ```
-<img src="src/img/octo.gif" width="10%">
+<img src="./src/img/octo.gif" width="10%">
 
 ## :cactus: Structure 
  ```
