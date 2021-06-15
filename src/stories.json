@@ -1,0 +1,45 @@
+
+[ 
+    {
+      "id": 1,
+      "name": "pic1",
+      "url": "/instagram_mockup/images/stories1.jpg",
+      "text":"Lei Day"
+    },
+    {
+        "id": 2,
+        "name": "pic2",
+        "url": "/instagram_mockup/images/stories2.webp",
+        "text":"Tourism 21"
+      },
+    {
+        "id": 3,
+        "name": "pic3",
+        "url": "/instagram_mockup/images/stories3.png",
+        "text":"IATA Day"
+    },
+    {
+      "id": 4,
+      "name": "pic4",
+      "url": "/instagram_mockup/images/stories4.png",
+      "text":"air traffic"
+  },
+  {
+    "id": 5,
+    "name": "pic5",
+    "url": "/instagram_mockup/images/stories5.jpg",
+    "text":"destinations"
+},
+{
+  "id": 6,
+  "name": "pic6",
+  "url": "/instagram_mockup/images/stories6.jpg",
+  "text":"new orders"
+},
+{
+  "id": 7,
+  "name": "pic7",
+  "url": "/instagram_mockup/images/stories7.jpg",
+  "text":"runway 5"
+}
+]

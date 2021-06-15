@@ -1,0 +1,36 @@
+.header-container{
+    @include display-flex-row-justify(space-around);
+    height:6vh;
+    margin:0 auto;
+    padding:0 2rem;
+    border-bottom:$grey-border;
+    background-color:$white;
+    
+    .logo{
+    width:7vw;
+    }
+    input{
+        width:15vw;
+        height:3vh;
+        background-color:$light-grey;
+        outline:none;
+        border:$grey-border;
+        border-radius: 0.2rem;
+
+        &::placeholder{
+            text-align: center;
+        }
+        &:focus::placeholder{
+            color:transparent;
+        }
+    }
+
+    img{
+        width:2rem;
+        border-radius: 50%;
+    }
+    .react-icons{
+        margin-right:1rem;
+        font-size:1.8rem;
+    }
+}
