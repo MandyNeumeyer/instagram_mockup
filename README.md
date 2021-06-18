@@ -84,5 +84,4 @@ This project was created to practice React components and Sass.
     │   ├── _mixins.scss
     │   └── _var.scss
     └── stories.json
-
 ```
