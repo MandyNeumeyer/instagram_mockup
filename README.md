@@ -29,9 +29,6 @@ This project was created to practice React components and Sass.
    Enjoy
    ```
 
-![readme](https://user-images.githubusercontent.com/octo.gif)
-<img src="../instagram_mockup/src/img/octo.gif?raw=true" width="10%">
-
 ## :cactus: Structure 
  ```
  ├── package.json
