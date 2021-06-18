@@ -1,4 +1,4 @@
-## 	:camera: Instagram Mockup
+## Instagram Mockup
 
 This project was created to practice React components and Sass.
 
